@@ -81,7 +81,7 @@ header.sticky ul li a {
 
 /* Hero */
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Reybg.jpeg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Background.jpg");
   height: 50%;
   width: auto;
   background-position: center;
